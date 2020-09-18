@@ -1,3 +1,3 @@
 # Prueba
-Ejercicio IS2
-versión: 1.0
+Ejercicio IS2 <br>
+versión: 1.0 
